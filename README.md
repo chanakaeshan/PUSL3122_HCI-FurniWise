@@ -1,14 +1,13 @@
 # PUSL3122_HCI-FurniWise
 
-We have developed a user-friendly e-commerce system for a laptop store to give customers a seamless shopping experience.
 
 ## Admin <br>
-Email - chanaka@gmail.com <br>
-Password - 1111111111
+Email - Admin <br>
+Password - 123456
 
 ## User <br>
-Email - user1@gmail.com <br>
-Password - 2222222222
+Email - chanaka@gmail.com <br>
+Password - Chanaka12345
 
  ## 🔧 Technologies & Tools
  ![](https://img.shields.io/badge/code-react-informational?style=flat&logo=react&logoColor=61DAFB&color=2bbc8a)
