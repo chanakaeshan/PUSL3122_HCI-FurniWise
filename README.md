@@ -12,6 +12,6 @@ Password - Chanaka12345
  
  ![](https://img.shields.io/badge/:badgeContent?style=plastic&logo=java&logoColor=green)
 
- <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=plastic&logo=java&logoColor=green">
+
 
 
