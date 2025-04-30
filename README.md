@@ -10,7 +10,7 @@ Email - chanaka@gmail.com <br>
 Password - Chanaka12345
 
  
- https://img.shields.io/badge/:badgeContent?logo=java
+ ![](https://img.shields.io/badge/:badgeContent?logo=java)
 
  
 
